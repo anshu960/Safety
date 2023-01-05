@@ -44,7 +44,7 @@ afterEvaluate {
                 from components.release
                 groupId = 'com.github.anshu960'
                 artifactId = 'WomenSafety'
-                version = '1.0'
+                version = '1.2'
             }
         }
     }
